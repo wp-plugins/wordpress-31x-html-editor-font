@@ -4,7 +4,7 @@
   Plugin URI: http://www.eracer.de/
   Description: Brings the old HTML-Editor font from Wordpres 3.1x back to WordPress 3.2
   Author: Stevie
-  Version: 1.0
+  Version: 1.1
   Author URI: http://www.eracer.de
  */
 
