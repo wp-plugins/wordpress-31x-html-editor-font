@@ -2,9 +2,9 @@
 /*
   Plugin Name: HTML 3.1x Editor Font
   Plugin URI: http://www.eracer.de/
-  Description: Brings the old HTML-Editor font from Wordpres 3.1x back to WordPress 3.2/3.3
+  Description: Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
   Author: Stevie
-  Version: 1.2
+  Version: 1.3
   Author URI: http://www.eracer.de
  */
 
