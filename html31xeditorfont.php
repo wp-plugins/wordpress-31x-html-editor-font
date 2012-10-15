@@ -4,7 +4,7 @@
   Plugin URI: http://www.eracer.de/
   Description: Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
   Author: Stevie
-  Version: 1.3
+  Version: 1.5
   Author URI: http://www.eracer.de
  */
 
