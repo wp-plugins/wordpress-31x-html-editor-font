@@ -1,0 +1,25 @@
+=== Plugin Name ===
+Contributors: Stevie
+Donate link: http://www.eracer.de/
+Tags: editor, html, font, admin, wpadmin, wordpress
+Requires at least: 2.8.6
+Tested up to: 3.4
+Stable tag: 1.4
+
+Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
+
+== Description ==
+
+Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
+
+== Installation ==
+
+1. Upload the whole plugin-folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Enjoy the "old" editor font.
+
+== Changelog ==
+
+= 1.4 =
+* readme.txt added
+
