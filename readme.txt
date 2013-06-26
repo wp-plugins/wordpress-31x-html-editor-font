@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Stevie
+Contributors: rockschtar
 Donate link: http://www.eracer.de/
 Tags: editor, html, font, admin, wpadmin, wordpress
 Requires at least: 2.8.6
