@@ -4,7 +4,7 @@ Donate link: http://www.eracer.de/
 Tags: editor, html, font, admin, wpadmin, wordpress
 Requires at least: 2.8.6
 Tested up to: 3.5.2
-Stable tag: 1.5
+Stable tag: 1.6
 
 Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
 
