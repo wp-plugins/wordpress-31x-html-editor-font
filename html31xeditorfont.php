@@ -3,7 +3,7 @@
   Plugin Name: HTML 3.1x Editor Font
   Plugin URI: http://www.eracer.de/
   Description: Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
-  Author: Stevie
+  Author: rockschtar
   Version: 1.5
   Author URI: http://www.eracer.de
  */
