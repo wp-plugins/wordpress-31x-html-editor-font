@@ -2,16 +2,16 @@
 /*
   Plugin Name: HTML 3.1x Editor Font
   Plugin URI: http://www.eracer.de/
-  Description: Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2/3.3
+  Description: Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2 and higher
   Author: rockschtar
-  Version: 1.7
+  Version: 1.8
   Author URI: http://www.eracer.de
  */
 
-function my_htmleditor31xfont_css() {
-  echo '<link rel="stylesheet" type="text/css" href="' .plugins_url('html31xeditorfont.css  ', __FILE__). '">';
+function h31ef_admin_print_styles() {
+    wp_enqueue_style("h31f", plugins_url('html31xeditorfont.css  ', __FILE__));
 }
 
-add_action('admin_head','my_htmleditor31xfont_css');
-
+add_action('admin_print_styles-post-new.php', "h31ef_admin_print_styles");
+add_action('admin_print_styles-post.php', "h31ef_admin_print_styles");
 ?>
