@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: rockschtar
-Donate link: http://www.eracer.de/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B2WSC5FR2L8MU
 Tags: editor, html, font, admin, wpadmin, wordpress
 Requires at least: 2.8.6
 Tested up to: 4.1.1
-Stable tag: 1.8
+Stable tag: 1.8.1
 
 Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2 and higher
 
@@ -22,4 +22,3 @@ Brings the old HTML-Editor font from Wordpress 3.1x back to WordPress 3.2 and hi
 
 = 1.4 =
 * readme.txt added
-
